@@ -5,3 +5,6 @@
     <h1>morse</h1>
 <img width="923" height="479" alt="Immagine 2025-10-06 223609" src="https://github.com/user-attachments/assets/ab644efc-f4c6-4470-a394-4b22b63fd7e3" /> 
 <img width="906" height="428" alt="Immagine 2025-10-06 223640" src="https://github.com/user-attachments/assets/d774902f-6261-4923-83eb-26f820abdf38" />  
+[Uploading random-grades 1.csv…]()
+<h1>grades management interface</h1>
+<img width="1622" height="936" alt="Immagine 2025-10-21 214311" src="https://github.com/user-attachments/assets/549adfba-008f-46e7-80df-93cff45e124e" />
